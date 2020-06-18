@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=EE6vjroUgaI
 ```
 python webenv.py
 ```
+## requirement
+selenium, bs4
